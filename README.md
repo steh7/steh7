@@ -2,13 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=STEH7&textBg=false&fontColor=fffff&reversal=false" alt="Banner STEH7">
 </div>
 
-<div align="center">  
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=STEH7&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" /> 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=STEH7&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
-
-
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/127353307/223878413-7bc60a8c-b971-43b9-af84-43aeee49f0eb.svg)
 
@@ -63,11 +56,4 @@
   <a href="https://www.linkedin.com/in/stephany-chrystine-d-607548241?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
-</div>
-
-<div align="center">
-  <h3 align="center" style="color:#00bfbf;">Contador de Curiosos</h3>
-  <p align="center">
-    <img src="https://profile-counter.glitch.me/steh7/count.svg" />
-  </p>
 </div>
