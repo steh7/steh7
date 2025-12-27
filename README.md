@@ -36,7 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-<h3 align="center">Meu Spotify:</h3>
+<h3 align="center">O que estou ouvindo no Spotify:</h3>
 
 <div align="center">
   <a href="https://open.spotify.com/user/7te86w3cb5awkcar8x5bxe8yg">
