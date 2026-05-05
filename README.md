@@ -22,10 +22,6 @@
   <img src="https://img.shields.io/badge/Instagram-6e40c9?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-<a href="https://x.com/steh7x" target="_blank">
-  <img src="https://img.shields.io/badge/X-121212?style=for-the-badge&logo=x&logoColor=white">
-</a>
-
 </div>
 
 ---
